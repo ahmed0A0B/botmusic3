@@ -1,0 +1,6 @@
+﻿owner=475317936719003660
+prefix=3
+game=Univers Sَerver ,0.5k | 3play
+stayinchannel=true
+songinstatus=false
+token=NTQwNTUxODQwOTc1MDI4MjU0.DzSlLA.yWQV8SQfyof7WlUHsnUQtKqY5Hs
